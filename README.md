@@ -30,8 +30,8 @@
 
  ◽  Then click the Translate button. 
 
- Screenshot : 
-
+⚪ Screenshot : 
+    
  
 
 ![Capture](https://github.com/user-attachments/assets/1f3a654b-b225-4314-b568-d1e1b1cca2b0)
