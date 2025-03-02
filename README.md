@@ -11,17 +11,23 @@
 ⚪ Features :
 
   ◽ Real-time Translation: Instantly translates text as the user types.
+  
   ◽ Multiple Language Support: Allows translation between various languages.
 
 ⚪ Technologies Used :
 
   ◽ React.js: JavaScript library for building user interfaces.
+  
   ◽ Tailwind CSS: Utility-first CSS framework for styling.
+  
   ◽ Translation API (e.g., Google Translate API): Provides translation services.
 
 ⚪ Usage
 
   ◽ Type or paste text in the input box.
+  
   ◽ Select the language you want to translate.
+  
   ◽ Then click on the Translate button. 
+  
   ◽ The translated text are display in the textarea.
